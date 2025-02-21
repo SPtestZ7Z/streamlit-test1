@@ -15,11 +15,12 @@ Description of the app ...
 
 ## Section Heading
 
-This is filler text, please replace this with text for this section.
+This is a basci streamlit app to check ability to host on the streamlit cloud 
+(Successful)!
 
 ## Further Reading
 
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
+See 
+- Resource 1 - https://www.youtube.com/watch?v=d7fnzDQ5qM8
 - Resource 2
 - Resource 3
